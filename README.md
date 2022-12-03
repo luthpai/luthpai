@@ -2,9 +2,8 @@
 
 - Name: Muhammad Luthfi Afriansyah
 - Nickname: Luthpai
-- Pronouns: He/Him
-- Language: Indonesian, Javanese, English
-- Stack: React, Tailwind
+- Pronounce: He/Him
+- Language: Indonesian, Javanese, Banten Javanese, English
 
 ## Stats
 
