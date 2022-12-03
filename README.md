@@ -1,4 +1,4 @@
-## Hello there 👋 welcome to the jungle
+## Ayyo Guys Luthpai Here!
 
 - Name: Muhammad Luthfi Afriansyah
 - Nickname: Luthpai
