@@ -5,6 +5,10 @@
 - Pronounce: He/Him
 - Language: Indonesian, Javanese, Banten Javanese, English
 
+### Hobbies
+
+Lets talk about my hobbies! So my hobbies are playing some sports like <b>Soccer</b>, <b>Basketball</b>, and <b>Badminton</b>. Playing games and cooking are also my hobbies.
+
 ## Stats
 
 <a href="https://github.com/luthpai">
