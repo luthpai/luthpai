@@ -7,7 +7,7 @@
 
 ### Hobbies
 
-Lets talk about my hobbies! So my hobbies are playing some sports like <b>Soccer</b>, <b>Basketball</b>, and <b>Badminton</b>. <b>Coding</b>, <b>Playing games</b> and <b>cooking</b> are also my hobbies.
+Lets talk about my hobbies! So my hobbies are playing some sports like <b>Soccer</b>, <b>Basketball</b>, and <b>Badminton</b>. <b>Coding</b>, <b>Playing games</b> and <b>Cooking</b> are also my hobbies.
 
 ## Stats
 
