@@ -1,14 +1,13 @@
 # Hello! I'm Luthpai
-<h3>I'm a junior high school student who loves programming a lot</h3>
+<h5>I'm a junior high school student who loves programming a lot</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luthpai) 
+# 💻 Skills:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luthpai&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luthpai&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=luthpai&theme=dracula&hide=prs,issues&show_icons=true&include_all_commits=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&theme=dracula&hide_border=false&count_private=false&layout=compact&hide=html,css,nix&langs_count=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
