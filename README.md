@@ -7,7 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 Stats :
-![Stats](https://github-readme-stats.vercel.app/api?username=luthpai&theme=dracula&hide=prs,issues&show_icons=true&include_all_commits=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&theme=dracula&hide_border=false&count_private=false&layout=compact&hide=html,css,nix&langs_count=6)
+![Stats](https://github-readme-stats.vercel.app/api?username=luthpai&hide=prs,issues&show_icons=true&include_all_commits=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&hide_border=false&count_private=false&layout=compact&hide=html,css,nix&langs_count=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
