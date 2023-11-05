@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, TypeScript, PHP, Python, C++
 React, Vue, Svelte, Alpine, Tailwind, Bootstrap, SASS, Next
 
 ## Back End
-Express, Flask
+Express, Flask, Fastify, FastAPI
 
 
 # 📊 Stats :
