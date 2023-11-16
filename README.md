@@ -1,19 +1,5 @@
 # Hello! I'm Luthpai
-<p>I'm a junior high school student who loves programming a lot</p>
-
-# What I Use :
-
-## Languages
-
-HTML, CSS, JavaScript, TypeScript, PHP, Python, C++
-
-## Front End
-
-React, Vue, Svelte, Alpine, Tailwind, Bootstrap, SASS, Next
-
-## Back End
-Express, Flask, Fastify, FastAPI
-
+I'm a junior high school student who loves programming a lot. I'm specialized in front end and I do a little bit of backend. Using React and Vue for building interactive web app. I have always been using Tailwind as my primary CSS framework. I'm capable of using some backend frameworks like Express, and Flask.
 
 # 📊 Stats :
 ![Stats](https://github-readme-stats.vercel.app/api?username=luthpai&show_icons=true&include_all_commits=true)
