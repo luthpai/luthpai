@@ -4,4 +4,4 @@ I'm Muhammad Luthfi Afriansyah, people call me Luthfi or Luthpai for short. I co
 
 [![Luthpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthpai&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=luthpai&theme=transparent))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&hide=html,Makefile&langs_count=20&layout=compact&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&hide=html,Makefile&langs_count=20&layout=compact&theme=transparent))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&hide=html,CMake,shell&langs_count=20&layout=compact&theme=transparent)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luthpai&hide=html,CMake,shell&langs_count=20&layout=compact&theme=transparent))
